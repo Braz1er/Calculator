@@ -1,5 +1,0 @@
-C:/Users/artem/CLionProjects/calc/cmake-build-debug/CMakeFiles/calc.dir
-C:/Users/artem/CLionProjects/calc/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/artem/CLionProjects/calc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/artem/CLionProjects/calc/cmake-build-debug/CMakeFiles/calc_autogen_timestamp_deps.dir
-C:/Users/artem/CLionProjects/calc/cmake-build-debug/CMakeFiles/calc_autogen.dir
