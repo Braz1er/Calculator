@@ -12,13 +12,13 @@ set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTOUIC ON)
 set(CMAKE_AUTORCC ON)
 
-add_executable(calc main.cpp
-        calc.cpp
-        calc.h
-        numpad.cpp
-        numpad.h
-        screen.cpp
-        screen.h
+add_executable(calc src/main.cpp
+        src/calc.cpp
+        src/calc.h
+        src/numpad.cpp
+        src/numpad.h
+        src/screen.cpp
+        src/screen.h
 )
 
 target_link_libraries(calc Qt6::Widgets)
